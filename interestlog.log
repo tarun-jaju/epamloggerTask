@@ -1,0 +1,27 @@
+[INFO ] 2020-02-25 22:56:15.811 [main] CompoundIntrest - this is main class
+[INFO ] 2020-02-25 22:56:15.822 [main] SimpleIntrest - this is simple intrest class
+[INFO ] 2020-02-25 22:56:15.823 [main] SimpleIntrest - enter the principal amount
+[INFO ] 2020-02-25 22:58:25.565 [main] CompoundIntrest - this is main class
+[INFO ] 2020-02-25 22:58:25.572 [main] SimpleIntrest - this is simple intrest class
+[INFO ] 2020-02-25 22:58:25.572 [main] SimpleIntrest - enter the principal amount
+[INFO ] 2020-02-25 22:58:30.355 [main] SimpleIntrest - enter the tenure to calculate simple intrest(in years)
+[INFO ] 2020-02-25 22:58:33.141 [main] SimpleIntrest - enter rate of intrest(in %)
+[INFO ] 2020-02-25 22:58:38.036 [main] SimpleIntrest - the simple intrest of the principal amount is
+ 100.0
+[INFO ] 2020-02-25 22:58:38.036 [main] SimpleIntrest - the final amount after adding intrest is
+ 1100.0
+[INFO ] 2020-02-25 22:58:38.037 [main] CompoundIntrest - this is compound intrest class
+[INFO ] 2020-02-25 22:58:38.037 [main] CompoundIntrest - this is compound intrest class
+[INFO ] 2020-02-25 22:58:38.037 [main] CompoundIntrest - 
+enter the principal amount
+
+[INFO ] 2020-02-25 22:58:46.313 [main] CompoundIntrest - enter the tenure to calculate compound intrest(in years)
+
+[INFO ] 2020-02-25 22:58:49.276 [main] CompoundIntrest - enter the rate of intrest(in %)
+
+[INFO ] 2020-02-25 22:58:52.052 [main] CompoundIntrest - enter the times the intrest is coumpounded in a year
+
+[INFO ] 2020-02-25 22:58:53.484 [main] CompoundIntrest - the amount of intrest is
+104.89557718672836
+[INFO ] 2020-02-25 22:58:53.484 [main] CompoundIntrest - the final amount after adding intrest is 
+1104.8955771867284

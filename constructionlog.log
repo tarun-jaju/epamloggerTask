@@ -1,0 +1,14 @@
+[INFO ] 2020-02-25 23:34:47.619 [main] CostEstimation - this is main class
+[INFO ] 2020-02-25 23:34:47.624 [main] Estimate - this is estimate class
+[INFO ] 2020-02-25 23:34:47.625 [main] Estimate -  select  the type of materials that you want to use for construction
+
+[INFO ] 2020-02-25 23:34:47.625 [main] Estimate - 1.standard materials
+2.above standard materials
+3.high standard material
+4.fully automated materials
+3
+[INFO ] 2020-02-25 23:35:31.137 [main] Estimate - enter the area of your house(in sq feet)
+
+100
+[INFO ] 2020-02-25 23:35:34.097 [main] Estimate - the total cost of construction as per your choice is180000rupees
+
